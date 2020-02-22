@@ -1419,7 +1419,7 @@
     tags:
     sha1: fa1bb5cfcedb17f4bc3cd0c6272adc3c9bc07739
 - fonts/font_qtele.png
-    author:
+    author: QshaR
     notes:
     tags:
     sha1: 7701aeb8e850da3c9e7b9c02837c9297a0dabf3c
@@ -1439,7 +1439,7 @@
     tags:
     sha1: b174374b514eb8578d1249759b146d86e09992bc
 - fonts/font_hacked.png
-    author:
+    author: Deeper
     notes:
     tags:
     sha1: be420636d22ba7ffaa3404488d4d4d2390ff8f04
@@ -1454,9 +1454,9 @@
     tags:
     sha1: 86cc1ff92ec71bc91b9d7056afe8914c7310c279
 - fonts/font_rainy.png
-    author:
+    author: RaiNy
     notes:
-    tags:
+    tags: cartoon, drawn
     sha1: e25287e9f1bea53b0f7c8247f3d5c3b15e84e396
 - fonts/font_teeworlds_old.png
     author:
@@ -1464,7 +1464,7 @@
     tags:
     sha1: 1a8d0077cd79defd37e0f5a158af0fd4b94d6167
 - fonts/font_space.png
-    author:
+    author: TheGnaa
     notes:
     tags:
     sha1: 481350520668d379d8d43a4ae95741a6d038e584
@@ -1489,9 +1489,9 @@
     tags:
     sha1: 495ad1748787c6fdd6ac2910bbd04fd37bd67b6a
 - fonts/freeze_text.png
-    author:
-    notes:
-    tags:
+    author: Nox Nebula, Big Smoke & Froghii
+    notes: [N]Race Tileset
+    tags: city, runguy 25, blmap
     sha1: 18c33ea9387e89d3732fd937bd7483988f3b1f78
 - generic/quads/gear_bronze.png
     author:
