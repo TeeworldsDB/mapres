@@ -938,6 +938,11 @@
     notes:
     tags:
     sha1: da1861bbfb0843aea53291f586e7aa5bd4421bb0
+- nature/TreesWithoutLeaves.png
+    author: тυx - tux
+    notes: https://forum.ddnet.tw/viewtopic.php?f=42&t=6907
+    tags: background, greyscale, white, trees, dead, apocalyptic
+    sha1: 444742d3bd12f296d335f7737badc15bc4eb3c7e
 - nature/leaf.png
     author:
     notes:
