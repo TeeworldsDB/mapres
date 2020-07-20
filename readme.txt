@@ -753,11 +753,6 @@
     notes: https://forum.ddnet.tw/viewtopic.php?f=42&t=6899
     tags: winter, ice, snow, full winter pack, white
     sha1: ff18d60e0e33dc28f1d48bda6570654de2e43ad6
-- winter/Oblique_winter_pack/automap/winter_plain_ice.rules
-    author:
-    notes:
-    tags:
-    sha1: c6842e2a1f8c2a32643b572ba4938a8c0e9d15c2
 - winter/Oblique_winter_pack/automap/winter_plain.rules
     author:
     notes:
@@ -1598,11 +1593,6 @@
     notes:
     tags:
     sha1: 84a52761398ed819d88f2af48a0e5e0dc6a80739
-- main/teeish/main_grass_0.7_grey.png
-    author:
-    notes:
-    tags:
-    sha1: f416f028f7261fec59c8db1338039828be36d448
 - main/teeish/main_castle.png
     author:
     notes:
@@ -1733,11 +1723,6 @@
     notes:
     tags:
     sha1: 0242eda8e1326991db74c0f92761ae130874b47f
-- main/other/main_myth.png
-    author:
-    notes:
-    tags:
-    sha1: 2b69661bde8a3c596a7a8e50f15b9c4475cda8a9
 - main/other/main_moon.png
     author:
     notes:
@@ -1928,11 +1913,6 @@
     notes:
     tags:
     sha1: 41fcfd833f62857e851e32450ddccd1e06ca4acd
-- doodads/doodads_jungle_old.png
-    author:
-    notes:
-    tags:
-    sha1: be7eaac93f6dab62792752b2785ca236313431e2
 - doodads/doodads_ruin.png
     author:
     notes:
@@ -2088,11 +2068,6 @@
     notes:
     tags:
     sha1: 674d26d050102387a0d59f2e446cec575964f7b6
-- doodads/doodads_japan_tree.png
-    author:
-    notes:
-    tags:
-    sha1: 3152d374ce3d3124dad809df8f536d39d0078eb5
 - doodads/doodads_bush.png
     author:
     notes:
