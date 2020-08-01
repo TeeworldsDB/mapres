@@ -253,6 +253,11 @@
     notes:
     tags:
     sha1: c8c81a8b945e7ff21ba25e6480ecf79959541a38
+- tees/cheerlead-hands.png
+    author:
+    notes:
+    tags:
+    sha1: b37cb8abd6fcc40d94bdb3091b9c2441e75ce130
 - tees/neuneuneu.png
     author:
     notes:
@@ -1148,6 +1153,11 @@
     notes:
     tags:
     sha1: de2770cb530604bc4ba743093d9b78a30427d186
+- fonts/alphabet4.png
+    author:
+    notes:
+    tags:
+    sha1: 31fdef65b89eba9d9e4d2147a20102a2acb49485
 - fonts/mtbbb6.png
     author:
     notes:
@@ -1708,6 +1718,11 @@
     notes:
     tags:
     sha1: 3505710aecd88705b690df9fb4dfb23b47cf5db1
+- fonts/all_main_fairydust.png
+    author:
+    notes:
+    tags:
+    sha1: a0c2e584d21b1ba6b7fa110b034e6e43af0e5997
 - fonts/[N]Race Uber3.png
     author:
     notes:
@@ -1948,6 +1963,11 @@
     notes:
     tags:
     sha1: cef481fd34ab86b85571a54fc106f9200d35ed4c
+- fonts/02 Purple Sea.png
+    author:
+    notes:
+    tags:
+    sha1: 8594924b5c4d537e6772e88be3b3103ebfb97ab2
 - fonts/BlockTiles.png
     author:
     notes:
@@ -2448,6 +2468,11 @@
     notes:
     tags:
     sha1: 8499480f9d586bbe1cefecb0e6b80003acf013a6
+- fonts/Amawhite.png
+    author:
+    notes:
+    tags:
+    sha1: c34b1cddf95ffde80b42550fcc06a2bc06aca0c2
 - fonts/TeeFactory.png
     author:
     notes:
@@ -2493,6 +2518,11 @@
     notes:
     tags:
     sha1: fa5a7db624b24c5b79e73aa9dc23e5945918a4a1
+- fonts/Amaall.png
+    author:
+    notes:
+    tags:
+    sha1: 6626d75d21138fe64ddf73f804a818f2da9a6148
 - fonts/schoko_allround_extended3.png
     author:
     notes:
@@ -3528,6 +3558,11 @@
     notes:
     tags:
     sha1: 50db8f3caf6baf31bfc3ed52b7ffa6b0dd43fc2a
+- logos/catching-logo-tile.png
+    author:
+    notes:
+    tags:
+    sha1: db3845b2e4b1f35f874e6682fec3c6b38a8468dd
 - logos/coopyright.png
     author:
     notes:
@@ -3553,6 +3588,11 @@
     notes:
     tags:
     sha1: 50603ccf2bccae82cf910e92caa867040a45c995
+- logos/bannerts.png
+    author:
+    notes:
+    tags:
+    sha1: 8e50e53e24ef47c8febd49161e0adab54da5f019
 - logos/Mappers.png
     author:
     notes:
@@ -3563,6 +3603,11 @@
     notes:
     tags:
     sha1: 57ce88f26483e42f667b819898c53b2c4ab78c47
+- logos/banner_cookie.png
+    author:
+    notes:
+    tags:
+    sha1: 67fd0a42ccbe4a010cd78f9cca964b63f9499daa
 - logos/deathbox_logo.png
     author:
     notes:
@@ -3633,6 +3678,11 @@
     notes:
     tags:
     sha1: 47f745add3c3994e8f749261bd01418d37c540a7
+- logos/bht.png
+    author:
+    notes:
+    tags:
+    sha1: 22b40f99ef9140b96723bc3b159026d5792024e0
 - planets/planet6.png
     author:
     notes:
@@ -4143,6 +4193,11 @@
     notes:
     tags:
     sha1: 990d82aec23005ea75b6789c204040c4dd1b862a
+- water/aniwater_emc.png
+    author:
+    notes:
+    tags:
+    sha1: 10c30f98ed27a63e82f3778a79583feba30bd091
 - water/watter_main.png
     author:
     notes:
@@ -4173,6 +4228,16 @@
     notes:
     tags:
     sha1: 43ae285e724642f41c0f905d5ce6030386b43bfd
+- entities/bla.png
+    author:
+    notes:
+    tags:
+    sha1: 67dd219c42bb1e6022511bc61a89ee136465601e
+- entities/Boost.png
+    author:
+    notes:
+    tags:
+    sha1: 57e629d135437f8640b0eb17c56dd54ae1e5e4e0
 - text_and_signs/sign_by_Ravie.png
     author:
     notes:
@@ -4473,6 +4538,11 @@
     notes:
     tags:
     sha1: 0554655e8f45ae2349d350579744a6a9b5278c51
+- items/angle.png
+    author:
+    notes:
+    tags:
+    sha1: 077fbb7d9291ff8c9a9e81fdac7274c6cb1d21d2
 - items/flag.png
     author:
     notes:
@@ -5138,6 +5208,11 @@
     notes:
     tags:
     sha1: 28bd6544dd9c66933160e89b89bc475a58b4123c
+- generic/tiles/chains_tileset2.png
+    author:
+    notes:
+    tags:
+    sha1: 2a7c84dd4954dadba0071b479eba84561dd57055
 - generic/tiles/generic_gaw.png
     author:
     notes:
@@ -6188,6 +6263,11 @@
     notes:
     tags:
     sha1: f3f5bd17b357bb82960ac1419a06fa42c60e8139
+- main/teeish/Autumn_KBeeeR.png
+    author:
+    notes:
+    tags:
+    sha1: 4d8e61d23645d1315cea7dfdd13135a6e15b70da
 - main/teeish/usefull.png
     author:
     notes:
@@ -6198,6 +6278,11 @@
     notes:
     tags:
     sha1: 4855f2d453df3fd037e46341d50cbe470d01a3d1
+- main/teeish/autumn_main.png
+    author:
+    notes:
+    tags:
+    sha1: 240ddb63b163b51eac30d111492774405e49fdee
 - main/teeish/jungle_main_cold.png
     author:
     notes:
@@ -6243,6 +6328,11 @@
     notes:
     tags:
     sha1: 3299e5f4b5feccb3f7f507984d4f71f1e805479b
+- main/teeish/a sand.png
+    author:
+    notes:
+    tags:
+    sha1: 6fe2b01b9188f2c6bf2d312ade85b7e42c036d1b
 - main/teeish/main_beach_white.png
     author:
     notes:
@@ -6658,6 +6748,11 @@
     notes:
     tags:
     sha1: bb48546e5057366e0efec2f1ba214bba8c81d65a
+- main/teeish/ASAD.png
+    author:
+    notes:
+    tags:
+    sha1: 1def0e5f9ff47ff7ca24f76aaff4dbb2fb6e1fb0
 - main/teeish/stones_rainy.png
     author:
     notes:
@@ -6693,6 +6788,11 @@
     notes:
     tags:
     sha1: 09f73b6f2ccc71f0f058784f2f386f63b809652b
+- main/teeish/babylon main.png
+    author:
+    notes:
+    tags:
+    sha1: 4d6fc14fe3a3eda5d402a13d15dc503b75aadf0f
 - main/teeish/GRASS_MAIN_NEON_GREEN.png
     author:
     notes:
@@ -6783,6 +6883,11 @@
     notes:
     tags:
     sha1: a69e5ce81230b1ddc0bf2dfa1371bbb7462d9821
+- main/teeish/autumn_madin.png
+    author:
+    notes:
+    tags:
+    sha1: c6b1dd275a285e1da65d5e1eea6cba6f36a09e56
 - main/teeish/grass_nico_0.7_plus.png
     author:
     notes:
@@ -6828,6 +6933,11 @@
     notes:
     tags:
     sha1: 6cb5e017ecedbbd587060792e4a0cefa7a65b054
+- main/teeish/Asassins creed_BACKGROUND.png
+    author:
+    notes:
+    tags:
+    sha1: 56262c5f32bcd15a0abbfce0d2b09068316f7edc
 - main/teeish/purple.png
     author:
     notes:
@@ -7888,6 +7998,11 @@
     notes:
     tags:
     sha1: 94e2675e9d4744ee0a1fb4a92b8cc55d9a8fe50d
+- suns/bad-sun2.png
+    author:
+    notes:
+    tags:
+    sha1: f459afa6bc64a9300f4ca9a8789703ae9434d8b6
 - suns/desert.png
     author:
     notes:
@@ -8118,6 +8233,11 @@
     notes:
     tags:
     sha1: 8cf1ab66af73bbe2e42c7dd2f49d6162f8dcd3e1
+- doodads/battlehymnvallyforeground.png
+    author:
+    notes:
+    tags:
+    sha1: 5883d258f0a2092c5d36b898e8597dae397a9a77
 - doodads/doodads_farm3.png
     author:
     notes:
@@ -8358,6 +8478,11 @@
     notes:
     tags:
     sha1: 9cd687c0204f1783d3a427e52cb09938e1cf5115
+- doodads/battlehymnvallybackground.png
+    author:
+    notes:
+    tags:
+    sha1: 5a6c8d3655383ffb6a8e436d4962eab4559976dd
 - doodads/doodads_winter.png
     author:
     notes:
