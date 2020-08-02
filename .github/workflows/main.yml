@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Prepare
+      run: git clone https://github.com/TeeworldsDB/scripts ../scripts
+    - name: Check resolution
+      run: ../scripts/resolution.sh check.txt
+    - name: Check duplicates
+      run: ../scripts/duplicates.sh readme.txt
