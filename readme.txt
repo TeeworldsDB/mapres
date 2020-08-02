@@ -12333,167 +12333,167 @@
     notes:
     tags:
     sha1: 525dd70ad8418736e022a46ab10b7d5f2ebedb9b
-- arrows/pfeile_by_cyserix.png
-    author:
-    notes:
-    tags:
-    sha1: 84bdfbb9ae08f27d8c59aea8107331610b25aae2
-- arrows/bluearrows.png
-    author:
-    notes:
-    tags:
-    sha1: 06b402cd33ccec695b6efd5c1d278e52395e5c5b
-- arrows/PfeilGrau.png
+- arrows/quads/PfeilGrau.png
     author:
     notes:
     tags:
     sha1: efeb517638a462998094024bd78dcb571415ef71
-- arrows/arrow2.png
+- arrows/quads/arrow2.png
     author:
     notes:
     tags:
     sha1: 04460ec4534173e2680ac5122e6d7df3280bebcc
-- arrows/Pfeil-Rechts.png
+- arrows/quads/Pfeil-Rechts.png
     author:
     notes:
     tags:
     sha1: 7dc9824785f693e9f6d7a4b8fc0e64e27730bfe9
-- arrows/Pfeil-Links.png
+- arrows/quads/Pfeil-Links.png
     author:
     notes:
     tags:
     sha1: db70ab38d9209765bf1a7fc3cb6d2ad2fee4e47b
-- arrows/Pfeile2.png
-    author:
-    notes:
-    tags:
-    sha1: 2a9e75de0ed0f07b7491f42d8dfdb2ba673f5be4
-- arrows/arrows.png
-    author:
-    notes:
-    tags:
-    sha1: a93403be190c9da4971671f392c3ebeee27f557e
-- arrows/arrow_glass_grey.png
+- arrows/quads/arrow_glass_grey.png
     author:
     notes:
     tags:
     sha1: b998789ed760d36220fff914f133148873f8d503
-- arrows/arrows_green.png
-    author:
-    notes:
-    tags:
-    sha1: 0fa92afe4da4a14d35953a449bcfe7b20569f68f
-- arrows/arrows_and_numbers.png
-    author:
-    notes:
-    tags:
-    sha1: 794eea72b3fbe381c782db6a57f782ec37f5fc0a
-- arrows/arrowsph3PRO.png
-    author:
-    notes:
-    tags:
-    sha1: 7de9cbecc09ffc78cc6e0d2425029175cf80bc33
-- arrows/arrows2.png
-    author:
-    notes:
-    tags:
-    sha1: bbcf966edf8bfa81166ebfb5b0f8f9b5dade4224
-- arrows/istr.png
+- arrows/quads/istr.png
     author:
     notes:
     tags:
     sha1: 9a9a8b8f71641e610d5aa67f708936acb641fb53
-- arrows/ice_arrows.png
-    author:
-    notes:
-    tags:
-    sha1: a339b28e01f37d236fda6062c72b282489122d69
-- arrows/arrowsmulticolor.png
-    author:
-    notes:
-    tags:
-    sha1: 56569200cc2475e0044a9cbb7068615efdd64d56
-- arrows/arrows_red.png
-    author:
-    notes:
-    tags:
-    sha1: 4abaa5085cf22102cb68a395e9f2900993a62c8f
-- arrows/pfeil_einfach_runter.png
+- arrows/quads/pfeil_einfach_runter.png
     author:
     notes:
     tags:
     sha1: 7d4c3795ee331f06ba65771410c2deef7fa2d90d
-- arrows/arrow_wood.png
-    author:
-    notes:
-    tags:
-    sha1: 65eda0ca3eece83cf60861ba096048ede4958e8a
-- arrows/arrowsph3final777.png
-    author:
-    notes:
-    tags:
-    sha1: ffc503d31f583bc8bdf80d77912bb9318aaaf7ff
-- arrows/arrow_blue.png
+- arrows/quads/arrow_blue.png
     author:
     notes:
     tags:
     sha1: 646de4ca2cb588769c68f7770fcc9ac0beaabe5f
-- arrows/pfeil_blau.png
+- arrows/quads/pfeil_blau.png
     author:
     notes:
     tags:
     sha1: 50e07b1b209f5c35112126e48cdfb9be1c236cfe
-- arrows/Pfeil-Runter.png
+- arrows/quads/Pfeil-Runter.png
     author:
     notes:
     tags:
     sha1: f3c2d2c713921b3e30f3f41119142880ceee0980
-- arrows/showing_soft_shadows.png
+- arrows/quads/showing_soft_shadows.png
     author:
     notes:
     tags:
     sha1: 16d0be4656a923c62c9d4df11eed243422cf489d
-- arrows/schwer_pfeil_seite.png
+- arrows/quads/schwer_pfeil_seite.png
     author:
     notes:
     tags:
     sha1: b883ec09ba3e5d5cc9f7ac2df592496a95984d57
-- arrows/arrows-blue.png
-    author:
-    notes:
-    tags:
-    sha1: 60776e85605e0784d541d1bbf92a3a446e278efa
-- arrows/arrows3.png
-    author:
-    notes:
-    tags:
-    sha1: c4217627790ccb57a39d544d129a20127f95fb68
-- arrows/cArrows.png
-    author:
-    notes:
-    tags:
-    sha1: 340ce8a89693a285c5c3c72110dd3b7e725c217a
-- arrows/pfeilquad.png
+- arrows/quads/pfeilquad.png
     author:
     notes:
     tags:
     sha1: 0e382195529fafc1cd67e901197af7be29229325
-- arrows/Pfeile_4Coke.png
+- arrows/tiles/pfeile_by_cyserix.png
+    author:
+    notes:
+    tags:
+    sha1: 84bdfbb9ae08f27d8c59aea8107331610b25aae2
+- arrows/tiles/bluearrows.png
+    author:
+    notes:
+    tags:
+    sha1: 06b402cd33ccec695b6efd5c1d278e52395e5c5b
+- arrows/tiles/Pfeile2.png
+    author:
+    notes:
+    tags:
+    sha1: 2a9e75de0ed0f07b7491f42d8dfdb2ba673f5be4
+- arrows/tiles/arrows.png
+    author:
+    notes:
+    tags:
+    sha1: a93403be190c9da4971671f392c3ebeee27f557e
+- arrows/tiles/arrows_green.png
+    author:
+    notes:
+    tags:
+    sha1: 0fa92afe4da4a14d35953a449bcfe7b20569f68f
+- arrows/tiles/arrows_and_numbers.png
+    author:
+    notes:
+    tags:
+    sha1: 794eea72b3fbe381c782db6a57f782ec37f5fc0a
+- arrows/tiles/arrowsph3PRO.png
+    author:
+    notes:
+    tags:
+    sha1: 7de9cbecc09ffc78cc6e0d2425029175cf80bc33
+- arrows/tiles/arrows2.png
+    author:
+    notes:
+    tags:
+    sha1: bbcf966edf8bfa81166ebfb5b0f8f9b5dade4224
+- arrows/tiles/ice_arrows.png
+    author:
+    notes:
+    tags:
+    sha1: a339b28e01f37d236fda6062c72b282489122d69
+- arrows/tiles/arrowsmulticolor.png
+    author:
+    notes:
+    tags:
+    sha1: 56569200cc2475e0044a9cbb7068615efdd64d56
+- arrows/tiles/arrows_red.png
+    author:
+    notes:
+    tags:
+    sha1: 4abaa5085cf22102cb68a395e9f2900993a62c8f
+- arrows/tiles/arrow_wood.png
+    author:
+    notes:
+    tags:
+    sha1: 65eda0ca3eece83cf60861ba096048ede4958e8a
+- arrows/tiles/arrowsph3final777.png
+    author:
+    notes:
+    tags:
+    sha1: ffc503d31f583bc8bdf80d77912bb9318aaaf7ff
+- arrows/tiles/arrows-blue.png
+    author:
+    notes:
+    tags:
+    sha1: 60776e85605e0784d541d1bbf92a3a446e278efa
+- arrows/tiles/arrows3.png
+    author:
+    notes:
+    tags:
+    sha1: c4217627790ccb57a39d544d129a20127f95fb68
+- arrows/tiles/cArrows.png
+    author:
+    notes:
+    tags:
+    sha1: 340ce8a89693a285c5c3c72110dd3b7e725c217a
+- arrows/tiles/Pfeile_4Coke.png
     author:
     notes:
     tags:
     sha1: 7c44955fb0eb7adc3547c9aeb06d7c6866f37f49
-- arrows/pfeile.png
+- arrows/tiles/pfeile.png
     author:
     notes:
     tags:
     sha1: a9807af2b43941903b2ebc6284e4eb37f0c01b10
-- arrows/Arrowsd.png
+- arrows/tiles/Arrowsd.png
     author:
     notes:
     tags:
     sha1: 0e99e302e75deb557886d9ef052c1ebd929b9fdb
-- arrows/freeze_add.png
+- arrows/tiles/freeze_add.png
     author:
     notes:
     tags:
