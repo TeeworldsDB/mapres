@@ -733,16 +733,11 @@
     notes:
     tags:
     sha1: 3bd587b75252e46abd4ac1e6bd0840b250e19dc5
-- white/tiles/DDracemaXshadows0.2(2).png
-    author:
-    notes:
-    tags:
-    sha1: 0ac3720b97586b01521b8103878cf8d898f21564
 - white/tiles/DDracemaXshadows-White.png
     author:
     notes:
     tags:
-    sha1: 641c9608ae07cdfbfd6df96cc3fcd5a1897b20cd
+    sha1: 0ac3720b97586b01521b8103878cf8d898f21564
 - white/tiles/light_main.png
     author:
     notes:
@@ -793,11 +788,6 @@
     notes:
     tags:
     sha1: 7139c22f1594445422cbf0b923e20cdd53a4f04a
-- white/tiles/DDracemaX (2).png
-    author:
-    notes:
-    tags:
-    sha1: 7e42c0864a82c2c704c31c320ce9a09e848f730f
 - white/tiles/DDracemaX0.2weis22.png
     author:
     notes:
@@ -1528,6 +1518,11 @@
     notes:
     tags:
     sha1: 50cdd46dd896e2b006088fe264e13079841032c8
+- fonts/343a2.png
+    author:
+    notes:
+    tags:
+    sha1: aa224e62dcbd827b8df191a1e5b03519b507c4dd
 - fonts/N_race_main_RuS.png
     author:
     notes:
@@ -1828,11 +1823,6 @@
     notes:
     tags:
     sha1: 92e0ac638014211bfbb65605f6fefc7e4b558f6c
-- fonts/343a2 - Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: aa224e62dcbd827b8df191a1e5b03519b507c4dd
 - fonts/[DKNX]race_main.png
     author:
     notes:
@@ -2348,11 +2338,6 @@
     notes:
     tags:
     sha1: e8dc1dfbed20b1faf5739b2092c9f0816477a398
-- fonts/N_race_main_bag - Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: cccfb94db8b6aa28c165fb2e3ea762140197eb0e
 - fonts/Becci2.png
     author:
     notes:
@@ -2678,6 +2663,11 @@
     notes:
     tags:
     sha1: 4dcad170f86c78b8a2d1e96f64c2bed59b29ea89
+- fonts/[n]raceJkL3.png
+    author:
+    notes:
+    tags:
+    sha1: bb58c8211e2482bc259a4f2be347021631afaec0
 - fonts/c0dycZ.png
     author:
     notes:
@@ -2938,11 +2928,6 @@
     notes:
     tags:
     sha1: 55e3b5222b2ae9574e93677751dc01f32047e62f
-- fonts/N_race_main Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: 3d7844c677031209216b4756f938905396ab315e
 - fonts/DDM2.png
     author:
     notes:
@@ -3038,11 +3023,6 @@
     notes:
     tags:
     sha1: 74addcef1cd79ab0ae23d4e10f183477ab4e720a
-- fonts/[n]raceJkL(2).png
-    author:
-    notes:
-    tags:
-    sha1: bb58c8211e2482bc259a4f2be347021631afaec0
 - fonts/grey_main.png
     author:
     notes:
@@ -3098,6 +3078,11 @@
     notes:
     tags:
     sha1: f6ec02b488e78f55d7645e89032e83fe63280105
+- fonts/N_race_main_bag.png
+    author:
+    notes:
+    tags:
+    sha1: cccfb94db8b6aa28c165fb2e3ea762140197eb0e
 - fonts/[n]race_main3.png
     author:
     notes:
@@ -3118,6 +3103,11 @@
     notes:
     tags:
     sha1: bf291f17e02ef095b0e1b5f89394019252e2f421
+- fonts/N_race_main3.png
+    author:
+    notes:
+    tags:
+    sha1: 3d7844c677031209216b4756f938905396ab315e
 - fonts/hook_tiles.png
     author:
     notes:
@@ -3563,11 +3553,6 @@
     notes:
     tags:
     sha1: 4b57f04ffa2362ee20dddf7c66b8cae6778edbef
-- spikes/death_tiles_black_1 (2).png
-    author:
-    notes:
-    tags:
-    sha1: 379dd63b2505d067eb42620079615169a46438fd
 - spikes/GRANIT_DEATH_GOLD.png
     author:
     notes:
@@ -3903,11 +3888,6 @@
     notes:
     tags:
     sha1: 11ab067259e6d47d504b5aba066404c5f1eb83d9
-- spikes/death_tiles Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: b306c8ceeeeec528a9a5e9ee80bd592590fbcca4
 - spikes/spikes_generic.png
     author:
     notes:
@@ -4873,16 +4853,16 @@
     notes:
     tags:
     sha1: e2b0667cb8c9b205ba39c5bfdc1f9cc43c0299cf
-- entities/entities (2).png
-    author:
-    notes:
-    tags:
-    sha1: f449cc6dcbfda9ae4085f05821ad863fcd950cb8
 - entities/entities_v0.7.png
     author:
     notes:
     tags:
     sha1: e176849d0ff7734d61122e957328f0102143a254
+- entities/entities2.png
+    author:
+    notes:
+    tags:
+    sha1: f449cc6dcbfda9ae4085f05821ad863fcd950cb8
 - entities/speedup.png
     author:
     notes:
@@ -4973,11 +4953,6 @@
     notes:
     tags:
     sha1: 85f7996790c61aceb452575ca7cde8822c6c8021
-- text_and_signs/left (2).png
-    author:
-    notes:
-    tags:
-    sha1: 05e3b58e21f5ce0b4366058a622c802a0aa8f7ca
 - text_and_signs/4popo.png
     author:
     notes:
@@ -5103,6 +5078,11 @@
     notes:
     tags:
     sha1: 7ea2d6a6a5384ee80e7ffb478e59a05aa1f5217d
+- text_and_signs/left.png
+    author:
+    notes:
+    tags:
+    sha1: 05e3b58e21f5ce0b4366058a622c802a0aa8f7ca
 - text_and_signs/4def.png
     author:
     notes:
@@ -7103,16 +7083,16 @@
     notes:
     tags:
     sha1: 24fee52c7cbad6b7c4c1b9ef75179b1d0d2477d6
+- main/city/das_lolteilset_v2.3.png
+    author:
+    notes:
+    tags:
+    sha1: 4617112d1ef55b18ffc97f5a5d965b2901fda2cb
 - main/city/Wohnungen_main.png
     author:
     notes:
     tags:
     sha1: d8aa3c9d6733bd9d21c76ab4d70db4f2f599fa74
-- main/city/das lolteilset v2.3 (2).png
-    author:
-    notes:
-    tags:
-    sha1: 4617112d1ef55b18ffc97f5a5d965b2901fda2cb
 - main/city/fantasy.png
     author:
     notes:
@@ -7492,7 +7472,7 @@
     author:
     notes:
     tags:
-    sha1: 9e4bb88ec8edbc1c0bffb600f5918b4c4fe7c453
+    sha1: 9fe546551edd7d5bddcd1606fa8f8b42ec324c9c
 - main/teeish/main_space2.png
     author:
     notes:
@@ -8078,11 +8058,6 @@
     notes:
     tags:
     sha1: 4fe39af1b6af27af21e0cc6da222a65a070c1ce6
-- main/teeish/Kisten_health_armor (2).png
-    author:
-    notes:
-    tags:
-    sha1: 52ecf6318d3089c88150a569c315ca19f433f144
 - main/teeish/grass_main_night.png
     author:
     notes:
@@ -8413,11 +8388,6 @@
     notes:
     tags:
     sha1: 2044cd4f1fccbd6f1142a5b1a9d1cdf8e0c67a0e
-- main/teeish/grass_main_3 Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: 9fe546551edd7d5bddcd1606fa8f8b42ec324c9c
 - main/teeish/[AtoSor]Ground_B.png
     author:
     notes:
@@ -8478,11 +8448,6 @@
     notes:
     tags:
     sha1: 525fd11821719f18cdff222efffb07beaabb8b4d
-- main/teeish/grass_main2 (2).png
-    author:
-    notes:
-    tags:
-    sha1: f28a06637978c328ab127b06cdaba163ec59e448
 - main/teeish/[Atomic]Ground.png
     author:
     notes:
@@ -8628,6 +8593,11 @@
     notes:
     tags:
     sha1: 09f73b6f2ccc71f0f058784f2f386f63b809652b
+- main/teeish/Kisten_health_armor.png
+    author:
+    notes:
+    tags:
+    sha1: 52ecf6318d3089c88150a569c315ca19f433f144
 - main/teeish/babylon main.png
     author:
     notes:
@@ -8718,6 +8688,11 @@
     notes:
     tags:
     sha1: 6913543551f22afbc955f3ead93206a0cab8eb27
+- main/teeish/grass_main2.png
+    author:
+    notes:
+    tags:
+    sha1: f28a06637978c328ab127b06cdaba163ec59e448
 - main/teeish/grass_main_4Noobbasher.png
     author:
     notes:
@@ -9608,11 +9583,6 @@
     notes:
     tags:
     sha1: 8a298f0b0f99b45c16f4893b30640fa6e6586309
-- main/other/Granit_main (2).png
-    author:
-    notes:
-    tags:
-    sha1: a84a909c60f5c9ca1f8a83244d5c3f4843f1df8f
 - main/other/Kreis_addon_grau.png
     author:
     notes:
@@ -9633,6 +9603,11 @@
     notes:
     tags:
     sha1: 520dc5f58e3672d27678062ab75e16c8a7f43549
+- main/other/Teengoten_and_Ama_Tileset.png
+    author:
+    notes:
+    tags:
+    sha1: 0e3bce790afa259624f3b666c1b27bcf18dbc784
 - main/other/jail_main.png
     author:
     notes:
@@ -9763,11 +9738,6 @@
     notes:
     tags:
     sha1: 70cde5e9fec7a8d703d271dbec36b4203359f4e3
-- main/other/Teengoten, Ama und Mo(2) Tileset.png
-    author:
-    notes:
-    tags:
-    sha1: 054a63e56095494a2f177e713077c40f1ff9b289
 - main/other/fluffy_air2.png
     author:
     notes:
@@ -10803,6 +10773,11 @@
     notes:
     tags:
     sha1: 6caf7eb7f1c8116f779c4e98baa02883e09fc024
+- main/other/granit_main2.png
+    author:
+    notes:
+    tags:
+    sha1: a84a909c60f5c9ca1f8a83244d5c3f4843f1df8f
 - main/other/simple_mainXX.png
     author:
     notes:
@@ -10853,6 +10828,11 @@
     notes:
     tags:
     sha1: 40d8af1c0f24d5d54215b450c7953fea012603c6
+- main/other/Teengoten_Ama_and_Mo_Tileset.png
+    author:
+    notes:
+    tags:
+    sha1: 054a63e56095494a2f177e713077c40f1ff9b289
 - main/other/Unteu_main.png
     author:
     notes:
@@ -10993,11 +10973,6 @@
     notes:
     tags:
     sha1: 9940d1311a6971392061e41c1330e954a9f2ee18
-- main/other/Teengoten & Ama Tileset.png
-    author:
-    notes:
-    tags:
-    sha1: 0e3bce790afa259624f3b666c1b27bcf18dbc784
 - main/other/limbus_main.png
     author:
     notes:
