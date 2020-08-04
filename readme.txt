@@ -5798,11 +5798,6 @@
     notes:
     tags:
     sha1: 56a08f0daa6606e607f8bb7f19bc1948cc0b1bc4
-- clouds/cloud_standard2.png
-    author:
-    notes:
-    tags:
-    sha1: 623bd24331e3fba333a29acd73b39729a58a3ae8
 - clouds/cloud_stripes.png
     author:
     notes:
@@ -5833,11 +5828,6 @@
     notes:
     tags:
     sha1: cd02d8e96b7e3db772f5938eb38fa523f91a729e
-- clouds/cloud_standrad3.png
-    author:
-    notes:
-    tags:
-    sha1: e5f8e8d20668a934f445bf7245caaa2467301a43
 - clouds/cloudmap.bigest.png
     author:
     notes:
