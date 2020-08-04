@@ -18,3 +18,5 @@ jobs:
       run: ../scripts/resolution.sh check.txt
     - name: Check duplicates
       run: ../scripts/duplicates.sh readme.txt
+    - name: Check filenames
+      run: ../scripts/filenames.sh .
