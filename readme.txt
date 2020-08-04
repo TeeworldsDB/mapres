@@ -1378,11 +1378,11 @@
     notes:
     tags:
     sha1: 8cc508bdde91322e78754bbd63945cb736256ba7
-- fonts/bstileset[1].png
+- fonts/BlackJungle.png
     author:
     notes:
     tags:
-    sha1: 4e3a285474e2f2d5fa85a3d2f8fa0982465e4e30
+    sha1: ab997ce1a9cb1ac4b98db64f330fcf3384e74136
 - fonts/Abc2.png
     author:
     notes:
@@ -1718,11 +1718,6 @@
     notes:
     tags:
     sha1: fa5599387fff3d26b45cb1652a3999130a7f217f
-- fonts/Boun' 2.png
-    author:
-    notes:
-    tags:
-    sha1: 26884a91a47af332bc883fb48b062c5fed16b3f4
 - fonts/qwew.png
     author:
     notes:
@@ -1743,11 +1738,6 @@
     notes:
     tags:
     sha1: 2e418fc05c998c6b46298554213cf6dfe428b5b7
-- fonts/Blue Sani.png
-    author:
-    notes:
-    tags:
-    sha1: d2ba1bc9b6b15615c0a9fec9730df488bec532c7
 - fonts/many_tiles.png
     author:
     notes:
@@ -1863,11 +1853,6 @@
     notes:
     tags:
     sha1: 10c075031b51b20c7e53f5a208219213455b1ba8
-- fonts/Buchstabenundsooo.png
-    author:
-    notes:
-    tags:
-    sha1: 179d1bfe6f1c1541607fb8b4b64ea7b6fc88355c
 - fonts/[N]Race_NOCITY2.png
     author:
     notes:
@@ -1948,11 +1933,6 @@
     notes:
     tags:
     sha1: dac33a92e70e0fe716d93d39e7de3eda09b80b26
-- fonts/host.png
-    author:
-    notes:
-    tags:
-    sha1: f04283159725739096279e5e29a99588aeaff2c4
 - fonts/frats ddmax.png
     author:
     notes:
@@ -2008,11 +1988,6 @@
     notes:
     tags:
     sha1: 7ab940781ce2553a75c9b4a8da0fc4236c7a4721
-- fonts/TEEMAPERS.png
-    author:
-    notes:
-    tags:
-    sha1: 59b6de3e7c3ac9d774174b7ff4c6093bcb007ee3
 - fonts/DDracemaXxx.png
     author:
     notes:
@@ -2023,11 +1998,6 @@
     notes:
     tags:
     sha1: 5c0808ce424e2ee0e75a78e92b99e121e629a54f
-- fonts/Hostting by Ag4-Hosting.png
-    author:
-    notes:
-    tags:
-    sha1: 8eedefb8a047db57d57ec078e1f3aaa21d9334de
 - fonts/comic_sans_ms (white).png
     author:
     notes:
@@ -2138,6 +2108,11 @@
     notes:
     tags:
     sha1: 3351cc64274ee4917c5898ea41e45dcdc25322ab
+- fonts/6.png
+    author:
+    notes:
+    tags:
+    sha1: c6677c6ceaa524abb0cfb5df070d227b2c57d7ae
 - fonts/entities nrace.png
     author:
     notes:
@@ -2268,6 +2243,11 @@
     notes:
     tags:
     sha1: 0c49118411b99b2e6d0c0a2dd678c19d266f0c81
+- fonts/grass_weiss.png
+    author:
+    notes:
+    tags:
+    sha1: 8d6681c1b2749fb560036ab866248b5868d4279e
 - fonts/AiP-Gores.png
     author:
     notes:
@@ -2423,6 +2403,11 @@
     notes:
     tags:
     sha1: 3cff1ce82f697e28f36ef9322cf291c9336e5429
+- fonts/Boun2.png
+    author:
+    notes:
+    tags:
+    sha1: 26884a91a47af332bc883fb48b062c5fed16b3f4
 - fonts/Stones main.png
     author:
     notes:
@@ -2448,11 +2433,6 @@
     notes:
     tags:
     sha1: 4a9abaef4ce7e15a7d1dc6e2df75040502785def
-- fonts/Hostet by Niko.png
-    author:
-    notes:
-    tags:
-    sha1: 82961b0b4e3ae110bd7e9642ff04d2d4efb35690
 - fonts/elfuturofont7.png
     author:
     notes:
@@ -2503,11 +2483,6 @@
     notes:
     tags:
     sha1: 88852782f8de60fec3d5f8de50fd27de5c525be8
-- fonts/Black Jungle.png
-    author:
-    notes:
-    tags:
-    sha1: ab997ce1a9cb1ac4b98db64f330fcf3384e74136
 - fonts/TextGoo.png
     author:
     notes:
@@ -2543,11 +2518,6 @@
     notes:
     tags:
     sha1: 69b3912affba3467483ca09ee4eb9718dbe86c25
-- fonts/HoST.png
-    author:
-    notes:
-    tags:
-    sha1: f8514ce175392bbab081c60c0cfad1b0184a01a5
 - fonts/font_4.png
     author:
     notes:
@@ -2653,6 +2623,11 @@
     notes:
     tags:
     sha1: 63869e440b458015a6a7a699b4bb0a93401c8f3d
+- fonts/schrift_der_schwarze_Ritter.png
+    author:
+    notes:
+    tags:
+    sha1: adf841c92774007814681ad189672c4702b99d74
 - fonts/teini_DeadAlien-Tiles-15.png
     author:
     notes:
@@ -2733,11 +2708,6 @@
     notes:
     tags:
     sha1: 2589edd3197e1ea40a0d220c8efc04206f11c369
-- fonts/hot.png
-    author:
-    notes:
-    tags:
-    sha1: be09c21ec1c40f94ef094dfb139b837ac920ab82
 - fonts/sletras1.png
     author:
     notes:
@@ -2783,11 +2753,6 @@
     notes:
     tags:
     sha1: ee7477559263c5cffcf423d0679ad7adad88af45
-- fonts/0264.png
-    author:
-    notes:
-    tags:
-    sha1: d5c2c8283ab6d35223ff48b5e82e2bc020db1116
 - fonts/tilesetrace7.png
     author:
     notes:
@@ -2798,11 +2763,6 @@
     notes:
     tags:
     sha1: ee693581f33d656d0e79738f8e188eddc9e3ed67
-- fonts/reced.png
-    author:
-    notes:
-    tags:
-    sha1: 53479cc4ba834945662ab13d3d1a3d1b1a83fed2
 - fonts/[N]race_main_F_T.png
     author:
     notes:
@@ -2903,16 +2863,6 @@
     notes:
     tags:
     sha1: f4e24d565f225f37e42b72ccd819e9ba648f523a
-- fonts/hosted.png
-    author:
-    notes:
-    tags:
-    sha1: c54cb4a01d884ea59867519473e9faea70632af0
-- fonts/hosted by niko.png
-    author:
-    notes:
-    tags:
-    sha1: 65b38da2e6fc146cf646110e2875475984596538
 - fonts/Szykertailset1.png
     author:
     notes:
@@ -3013,6 +2963,11 @@
     notes:
     tags:
     sha1: a06e244e4d35e60be5990e469c161f8b24f8cbd5
+- fonts/bstileset1.png
+    author:
+    notes:
+    tags:
+    sha1: 4e3a285474e2f2d5fa85a3d2f8fa0982465e4e30
 - fonts/VirusShadow.png
     author:
     notes:
@@ -3023,6 +2978,11 @@
     notes:
     tags:
     sha1: 4d50044d4f86ae552c2f8af671d046238d4265f6
+- fonts/BlueSani.png
+    author:
+    notes:
+    tags:
+    sha1: d2ba1bc9b6b15615c0a9fec9730df488bec532c7
 - fonts/Actual font.png
     author:
     notes:
@@ -3083,11 +3043,6 @@
     notes:
     tags:
     sha1: 65dc221d120e27106d1220acaa1d0f704fa4f633
-- fonts/TXT.png
-    author:
-    notes:
-    tags:
-    sha1: 88eb86b589877d15bbb21598a0e4514e5bac3107
 - fonts/grassdesert_main.png
     author:
     notes:
@@ -3123,11 +3078,6 @@
     notes:
     tags:
     sha1: 37334ac14ec421c89048cf2db000e3331eafc404
-- fonts/host_POC.png
-    author:
-    notes:
-    tags:
-    sha1: 7e3cc53a87974e2b3b09ba6e2648c6e985abb860
 - fonts/text_only_miper.png
     author:
     notes:
@@ -3173,11 +3123,6 @@
     notes:
     tags:
     sha1: 55390e5028e8f52b9ce966a58af574f71b64f219
-- fonts/Graveyard_Race.png
-    author:
-    notes:
-    tags:
-    sha1: 312cf4fdc148dd41a72c273c8060f739cc335085
 - fonts/font_6.png
     author:
     notes:
@@ -3243,11 +3188,6 @@
     notes:
     tags:
     sha1: 5e5abf5d2d122fea83a01aa3e55f708b201bd3a3
-- fonts/debug_font.png
-    author:
-    notes:
-    tags:
-    sha1: 479d4801f6999a3db2c6942ffe52ad0bf284ffcd
 - fonts/run_gaylord_run2 tileset.png
     author:
     notes:
@@ -3443,6 +3383,11 @@
     notes:
     tags:
     sha1: def80cae619db4cba9c4539f675fbc0ae469fb1f
+- fonts/allinone_made_by_schwarzer_Ritter.png
+    author:
+    notes:
+    tags:
+    sha1: bb7a1f4c433675fcc4d2a120be042673d4dd6ce9
 - fonts/[N]race_main_f 1.png
     author:
     notes:
@@ -7073,11 +7018,6 @@
     notes:
     tags:
     sha1: 2af0f2b103e849865d8f587ea1bdd9274a8dbfab
-- main/city/Teelife.png
-    author:
-    notes:
-    tags:
-    sha1: f8d0d7b5132ea81e0fdad272808d7b99feafb962
 - main/city/mapres.png
     author:
     notes:
@@ -7338,11 +7278,6 @@
     notes:
     tags:
     sha1: 81fb122ab4314d4abf7cac320ea8120c65ab1a15
-- main/city/berlin.png
-    author:
-    notes:
-    tags:
-    sha1: 41ea428426c2ccd643f2988d5ea73cba9bf742bf
 - main/city/MappresBySven.png
     author:
     notes:
@@ -8633,11 +8568,6 @@
     notes:
     tags:
     sha1: 01171bfd4a8677c74ad901ecd0cbb815fd9a24d1
-- main/teeish/grass_main_barcardi.png
-    author:
-    notes:
-    tags:
-    sha1: a6f7492b66fc6f368fdcb74779436ec925c5abc6
 - main/teeish/beach_main_new.png
     author:
     notes:
@@ -9008,21 +8938,11 @@
     notes:
     tags:
     sha1: e3cd3041c8d02347210df8f5935a779033c1e82c
-- main/minecraft/minecraft_terrain.png
-    author:
-    notes:
-    tags:
-    sha1: 70b2502dec1a847573cd3b79cfb3fd1d8dfb39d7
 - main/minecraft/minetee.png
     author:
     notes:
     tags:
     sha1: 7e2f678fa3ca1d8f230e5f2791d21710b9a8c7e8
-- main/minecraft/Minecraft V3 + Mob + Paintings Upload.png
-    author:
-    notes:
-    tags:
-    sha1: 5f8f5d5400c86eed0067cac3ac5aa22c61a9e5d2
 - main/minecraft/mine.png
     author:
     notes:
@@ -9173,11 +9093,6 @@
     notes:
     tags:
     sha1: 4847d851c8ac3dcc7ab2083b9fdbc154f290d269
-- main/mario/Marioland.png
-    author:
-    notes:
-    tags:
-    sha1: 885f1d0632acd04a1e7bb7d047ae45e41e3db287
 - main/mario/mario4.png
     author:
     notes:
@@ -9553,11 +9468,6 @@
     notes:
     tags:
     sha1: da268e0e085112367f4c0583d2ddeb5905793dad
-- main/other/greenglowmain.png
-    author:
-    notes:
-    tags:
-    sha1: a073d557fbf5d1a742f82ab91be0a066a0da3f41
 - main/other/[IG]clanset2.png
     author:
     notes:
@@ -9623,21 +9533,11 @@
     notes:
     tags:
     sha1: 370b8dcf820c36785f3de2f7d439dc84e6943c80
-- main/other/mo_entities.png
-    author:
-    notes:
-    tags:
-    sha1: b1211883c7400989a37dab4f4474bf6967d56ebf
 - main/other/Connected Tiles.png
     author:
     notes:
     tags:
     sha1: b9e2805a850e6949cc6b221bf1dde7c70c3fc049
-- main/other/desert_mainBlack&White609.png
-    author:
-    notes:
-    tags:
-    sha1: 34c74449322801b986f013973e3a65a26ee40ba5
 - main/other/saavik.png
     author:
     notes:
@@ -9963,11 +9863,6 @@
     notes:
     tags:
     sha1: b429deea42a2fcc761b73e9d0f9d53b99fc76ecc
-- main/other/CS3.png
-    author:
-    notes:
-    tags:
-    sha1: aa8086ba406a00d8cf42ba4b01a5c9168c335306
 - main/other/Win7-ByYoshi.png
     author:
     notes:
@@ -10023,11 +9918,6 @@
     notes:
     tags:
     sha1: 03c86c5418bd0dcd22374ed496c0b59f84435ec5
-- main/other/WorldAssets-hd.png
-    author:
-    notes:
-    tags:
-    sha1: 57fe1ccf6f6b1f3dea3aa3793b2201f1a0661c47
 - main/other/seasions.png
     author:
     notes:
@@ -12418,11 +12308,6 @@
     notes:
     tags:
     sha1: 794eea72b3fbe381c782db6a57f782ec37f5fc0a
-- arrows/tiles/arrowsph3PRO.png
-    author:
-    notes:
-    tags:
-    sha1: 7de9cbecc09ffc78cc6e0d2425029175cf80bc33
 - arrows/tiles/arrows2.png
     author:
     notes:
@@ -12448,11 +12333,6 @@
     notes:
     tags:
     sha1: 65eda0ca3eece83cf60861ba096048ede4958e8a
-- arrows/tiles/arrowsph3final777.png
-    author:
-    notes:
-    tags:
-    sha1: ffc503d31f583bc8bdf80d77912bb9318aaaf7ff
 - arrows/tiles/arrows-blue.png
     author:
     notes:

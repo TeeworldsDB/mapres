@@ -13,7 +13,7 @@ fonts                       tiles
 generic/quads               quads
 generic/tiles               tiles
 generic/tiles/balken        tiles
-hot                         tiles
+hot                         quads
 items/quads                 quads
 items/tiles                 tiles
 logos                       quads
@@ -22,7 +22,7 @@ main/city                   tiles
 main/mario                  tiles
 main/minecraft              tiles
 main/other                  tiles
-main/pprace_and_portal      tiles
+main/pprace_and_portal      quads
 main/teeish                 tiles
 moons                       quads
 nature                      quads
