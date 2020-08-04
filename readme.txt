@@ -1518,11 +1518,6 @@
     notes:
     tags:
     sha1: 2fd494450c17bd01da225806af202a21b1d7dcd6
-- fonts/schrift© der schwarze Ritter2.png
-    author:
-    notes:
-    tags:
-    sha1: adf841c92774007814681ad189672c4702b99d74
 - fonts/grass_main 2.png
     author:
     notes:
@@ -2108,11 +2103,6 @@
     notes:
     tags:
     sha1: 3351cc64274ee4917c5898ea41e45dcdc25322ab
-- fonts/6.png
-    author:
-    notes:
-    tags:
-    sha1: c6677c6ceaa524abb0cfb5df070d227b2c57d7ae
 - fonts/entities nrace.png
     author:
     notes:
@@ -11088,11 +11078,6 @@
     notes:
     tags:
     sha1: 97d7ad473f57fce13b5ad4b7d948bc34456c3f0a
-- main/other/GRASS_~1.png
-    author:
-    notes:
-    tags:
-    sha1: 8d6681c1b2749fb560036ab866248b5868d4279e
 - main/other/dommain.png
     author:
     notes:
