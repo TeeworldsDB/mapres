@@ -7488,11 +7488,6 @@
     notes:
     tags:
     sha1: 37f90f4410ccd6b50b8a8d73f507ec1dac3c3cf0
-- main/teeish/Desert_20.png
-    author:
-    notes:
-    tags:
-    sha1: f798034e1fc562fe2645c803b2d28b348baf5640
 - main/teeish/grass_main_3.png
     author:
     notes:
@@ -7893,11 +7888,6 @@
     notes:
     tags:
     sha1: f25492d255b34bd26e7bbb8960386ce72fd19d71
-- main/teeish/main_space3.png
-    author:
-    notes:
-    tags:
-    sha1: 5bbb5d7a206999d81746298d05cc0cfc57122b5f
 - main/teeish/angry_birds_main.png
     author:
     notes:
@@ -8098,11 +8088,6 @@
     notes:
     tags:
     sha1: 281a2f6f9439553c54dfbda227c64cd52a7d2cce
-- main/teeish/main_grass_0.7_plus.png
-    author:
-    notes:
-    tags:
-    sha1: d9216bba1bc9f2780c3d2fbf9d43d8913a974fd3
 - main/teeish/stone_schwarzer_ritter.png
     author:
     notes:
@@ -8388,11 +8373,6 @@
     notes:
     tags:
     sha1: 101411f9b06850d768a5d60dde9c484020265b90
-- main/teeish/main_grass_handmade.png
-    author:
-    notes:
-    tags:
-    sha1: cb550faeacef5fc45702d1e77d3022cc3f601101
 - main/teeish/stone_main.png
     author:
     notes:
