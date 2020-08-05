@@ -2158,6 +2158,11 @@
     notes:
     tags:
     sha1: 0776882b7eb800c5ab3fc765ef02e2fddd489218
+- fonts/blmapchill_txt.png
+    author:
+    notes: Used by BlmapChill (v0117+)
+    tags: text, ChillerDragon
+    sha1: 2dd022b10d7a2c05055620af439ca3232158fb3b
 - fonts/BlockTiles.png
     author:
     notes:
@@ -12308,3 +12313,8 @@
     notes:
     tags:
     sha1: bf9a40d5f0c977b3bac328966b0f6f9d3fefc690
+- xcf/blmapchill_txt.xcf
+    author:
+    notes: Used by BlmapChill (v0117+)
+    tags: text, ChillerDragon
+    sha1: c69a43eadd8aa5bef2c83a721d828ffe16c949c5
