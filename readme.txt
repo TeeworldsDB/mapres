@@ -778,6 +778,16 @@
     notes:
     tags:
     sha1: ba5ef3d5c6fae3b1275747085c4e7e2b84e61e0f
+- clouds/cloud4.png
+    author:
+    notes:
+    tags:
+    sha1: 7a74c85741010ff3e58c5d8d4e894dabf699e803
+- clouds/cloud5.png
+    author:
+    notes:
+    tags:
+    sha1: 98094325107e62dda63fd1a8fd01b4d2f288e06e
 - clouds/cloud_big1.png
     author:
     notes:
@@ -818,21 +828,6 @@
     notes:
     tags:
     sha1: b08f2ca3b3cd7daae61f25ad44700ed1e7068bb7
-- clouds/_cloud.png
-    author:
-    notes:
-    tags:
-    sha1: 152396374a6f36b8f8bc9d280de18b4210ac7126
-- clouds/cloud.png
-    author:
-    notes:
-    tags:
-    sha1: 98094325107e62dda63fd1a8fd01b4d2f288e06e
-- clouds/Cloud.png
-    author:
-    notes:
-    tags:
-    sha1: 7a74c85741010ff3e58c5d8d4e894dabf699e803
 - clouds/cloud_standard1.png
     author:
     notes:
@@ -1313,16 +1308,16 @@
     notes:
     tags:
     sha1: f975aad96630fbb9fcc432938135f67e3de49473
+- doodads/grass_doodads_bw2.png
+    author:
+    notes:
+    tags:
+    sha1: e68234dd1392cfdc8ff09aa2cc8c5ef4be664cbe
 - doodads/grass_doodads_bw.png
     author:
     notes:
     tags:
     sha1: 6f20cb123838040d478b123b4c659965381c95b2
-- doodads/grass_doodads_BW.png
-    author:
-    notes:
-    tags:
-    sha1: e68234dd1392cfdc8ff09aa2cc8c5ef4be664cbe
 - doodads/grass_doodads_dark.png
     author:
     notes:
@@ -1393,16 +1388,16 @@
     notes:
     tags:
     sha1: e7742f4ce07a9a97d335120a9917de755091d9a4
+- doodads/grass_doodads_orange2.png
+    author:
+    notes:
+    tags:
+    sha1: 192522daa7844f42d5cb05543c86a40131717260
 - doodads/grass_doodads_orange.png
     author:
     notes:
     tags:
     sha1: c8d45dd3f56d2c1f923c8cfe5d472682ee8dd2ed
-- doodads/grass_doodads_Orange.png
-    author:
-    notes:
-    tags:
-    sha1: 192522daa7844f42d5cb05543c86a40131717260
 - doodads/grass_doodads_orange_small.png
     author:
     notes:
@@ -1913,7 +1908,12 @@
     notes:
     tags:
     sha1: e35fc3fe6784030167adeffc8bc6be69a7f2777b
-- fonts/Abc2.png
+- fonts/abc2.png
+    author:
+    notes:
+    tags:
+    sha1: 2c9b56d4c3aefb85295608071031a8616a61761e
+- fonts/abc3.png
     author:
     notes:
     tags:
@@ -1923,11 +1923,6 @@
     notes:
     tags:
     sha1: b69f77218ca43f6b4963528ff8367a897abcd83d
-- fonts/Abc.png
-    author:
-    notes:
-    tags:
-    sha1: 2c9b56d4c3aefb85295608071031a8616a61761e
 - fonts/ABC'S.png
     author:
     notes:
@@ -1948,11 +1943,6 @@
     notes:
     tags:
     sha1: 519296d5da5305a6f617eae8f761b7b5ca03e9c8
-- fonts/AiP-Gores.png
-    author:
-    notes:
-    tags:
-    sha1: 6b53271f8a5ca715ba4d6fe3d6a5e55a45aec330
 - fonts/AiP-RaceX9.png
     author:
     notes:
@@ -3103,7 +3093,7 @@
     notes:
     tags:
     sha1: d82232993d44a9be8716f32e9a4866ad751881ee
-- fonts/LOL2.png
+- fonts/lol3.png
     author:
     notes:
     tags:
@@ -3243,17 +3233,12 @@
     notes:
     tags:
     sha1: 18c33ea9387e89d3732fd937bd7483988f3b1f78
-- fonts/nrace2.png
-    author:
-    notes:
-    tags:
-    sha1: 5c0808ce424e2ee0e75a78e92b99e121e629a54f
 - fonts/NRace2.png
     author:
     notes:
     tags:
     sha1: 8d5f4fa5b068f0cd028628c2dbddfdded4c4276d
-- fonts/nrace3.png
+- fonts/NRace3_2.png
     author:
     notes:
     tags:
@@ -3733,7 +3718,7 @@
     notes:
     tags:
     sha1: 2ea5e7582e6e835bee9f252a492f20829b43eb68
-- fonts/Schrift1.png
+- fonts/schrift2.png
     author:
     notes:
     tags:
@@ -5038,16 +5023,16 @@
     notes:
     tags:
     sha1: ecfde4d7ae1790bad5d879b0edb2f65837f065df
+- items/quads/komet2.png
+    author:
+    notes:
+    tags:
+    sha1: 867e422408d1ab41a988fbc091447cd1c28addb2
 - items/quads/komet.png
     author:
     notes:
     tags:
     sha1: 51c622f54858cff7d29ac0c2b3b19292af64ed93
-- items/quads/Komet.png
-    author:
-    notes:
-    tags:
-    sha1: 867e422408d1ab41a988fbc091447cd1c28addb2
 - items/quads/Lamp1_1x4.png
     author:
     notes:
@@ -5133,16 +5118,16 @@
     notes:
     tags:
     sha1: a686ea31f440687fbb37464183b79704ba58eefa
+- items/quads/segel2.png
+    author:
+    notes:
+    tags:
+    sha1: 4d9146ec7541d445f325cc4c9871bea43144766a
 - items/quads/segel.png
     author:
     notes:
     tags:
     sha1: 0554655e8f45ae2349d350579744a6a9b5278c51
-- items/quads/Segel.png
-    author:
-    notes:
-    tags:
-    sha1: 4d9146ec7541d445f325cc4c9871bea43144766a
 - items/quads/shark2.png
     author:
     notes:
@@ -5648,6 +5633,11 @@
     notes:
     tags:
     sha1: fd302d400961acee930f5595ffa2f2ea1535633c
+- main/city/city_main3.png
+    author:
+    notes:
+    tags:
+    sha1: 09e725fc3a2aca0f566ff969d96f4f5b72f0bbfe
 - main/city/citymain3.png
     author:
     notes:
@@ -5673,11 +5663,6 @@
     notes:
     tags:
     sha1: 7d99da163980110a8fdadf2951b304100f191eb8
-- main/city/City_main.png
-    author:
-    notes:
-    tags:
-    sha1: 09e725fc3a2aca0f566ff969d96f4f5b72f0bbfe
 - main/city/City main rail.png
     author:
     notes:
@@ -6478,11 +6463,16 @@
     notes:
     tags:
     sha1: cf6d3759a028cbc5a9684b1aeb7e91c614dec298
-- main/other/Castle2.png
+- main/other/castle2.png
     author:
     notes:
     tags:
     sha1: 7d5d7fe30d7473cf9f021226fac30b027086237e
+- main/other/castle3.png
+    author:
+    notes:
+    tags:
+    sha1: 5a419384e9a5ccda04b5b604b5caef68b0fb8bd1
 - main/other/_castlemain.png
     author:
     notes:
@@ -6508,11 +6498,6 @@
     notes:
     tags:
     sha1: d8dc77517ed2b80c657050587ae47d2e24508717
-- main/other/Castle.png
-    author:
-    notes:
-    tags:
-    sha1: 5a419384e9a5ccda04b5b604b5caef68b0fb8bd1
 - main/other/CblP_by_MaToDoR_run_e.png
     author:
     notes:
@@ -8138,6 +8123,11 @@
     notes:
     tags:
     sha1: 3eb99d108cd12df979db65d52d97961cf524548f
+- main/pprace_and_portal/portal2.png
+    author:
+    notes:
+    tags:
+    sha1: 9540b82b55a2cf82a47755546da3eafd9f49af60
 - main/pprace_and_portal/portal-main.png
     author:
     notes:
@@ -8153,11 +8143,6 @@
     notes:
     tags:
     sha1: 1360813129346cc91d66d5c489dd6fb0a60a28d1
-- main/pprace_and_portal/Portal.png
-    author:
-    notes:
-    tags:
-    sha1: 9540b82b55a2cf82a47755546da3eafd9f49af60
 - main/pprace_and_portal/portal_signs.png
     author:
     notes:
@@ -8633,16 +8618,16 @@
     notes:
     tags:
     sha1: ca0a907fcc08a7166450bef371776c48b07a1ffe
+- main/teeish/grass_jungle2.png
+    author:
+    notes:
+    tags:
+    sha1: 5b20bf04b129cb978301f85a5925b595f50b6f06
 - main/teeish/grass_jungle.png
     author:
     notes:
     tags:
     sha1: 6a1a1cbb389511b50604d289e52261b1cda206bf
-- main/teeish/Grass_Jungle.png
-    author:
-    notes:
-    tags:
-    sha1: 5b20bf04b129cb978301f85a5925b595f50b6f06
 - main/teeish/grassless.png
     author:
     notes:
@@ -8848,16 +8833,16 @@
     notes:
     tags:
     sha1: 281a2f6f9439553c54dfbda227c64cd52a7d2cce
+- main/teeish/grass_main_orange2.png
+    author:
+    notes:
+    tags:
+    sha1: c58bfcb71ae43d5623f91f9e8e4f4f7fa0dcdb89
 - main/teeish/grass_main_Orange_BlackWhite.png
     author:
     notes:
     tags:
     sha1: a4fca28d9df63102f0607c7072a8a4453fb7c5d5
-- main/teeish/grass_main_orange.png
-    author:
-    notes:
-    tags:
-    sha1: c58bfcb71ae43d5623f91f9e8e4f4f7fa0dcdb89
 - main/teeish/grass_main_Orange.png
     author:
     notes:
@@ -9393,16 +9378,16 @@
     notes:
     tags:
     sha1: 6ea8f6a59f62fc75151fd7824edb89eca70bdb2d
+- main/teeish/moon_main2.png
+    author:
+    notes:
+    tags:
+    sha1: bb2f95cebe130137fc964f833d1999347b59ae2a
 - main/teeish/moon_main.png
     author:
     notes:
     tags:
     sha1: c9c2c31992e2d0701855831827a43a2c0be22116
-- main/teeish/Moon_main.png
-    author:
-    notes:
-    tags:
-    sha1: bb2f95cebe130137fc964f833d1999347b59ae2a
 - main/teeish/moumain.png
     author:
     notes:
@@ -10183,6 +10168,11 @@
     notes:
     tags:
     sha1: a98ec6a9dd9ebea64371bc3e36f574c66dace1be
+- spikes/deathtiles2.png
+    author:
+    notes:
+    tags:
+    sha1: ff19317747316da19ae3038e07b94276fd348af6
 - spikes/death_tiles_3.png
     author:
     notes:
@@ -10313,16 +10303,16 @@
     notes:
     tags:
     sha1: 4b5c53d64c37aae76b39951e5d7ed985091b5762
+- spikes/death_tiles_green2.png
+    author:
+    notes:
+    tags:
+    sha1: 4382a3af40d32a40d293ad4bd470de291de6d9e1
 - spikes/death_tiles_green.png
     author:
     notes:
     tags:
     sha1: 2e078ad0a0c0117d00a92d3e328ca57555753936
-- spikes/DEATH_TILES_GREEN.png
-    author:
-    notes:
-    tags:
-    sha1: 4382a3af40d32a40d293ad4bd470de291de6d9e1
 - spikes/death_tiles_grey.png
     author:
     notes:
@@ -10423,11 +10413,6 @@
     notes:
     tags:
     sha1: 03fcb3502bce8722c03d6a98d38624f5bb2b31b1
-- spikes/DeathTiles.png
-    author:
-    notes:
-    tags:
-    sha1: ff19317747316da19ae3038e07b94276fd348af6
 - spikes/death_tiles_purple.png
     author:
     notes:
@@ -11143,16 +11128,16 @@
     notes:
     tags:
     sha1: 12a9bb2a1bac763a0ba9f333020b976e46cff4f5
+- tees/tee2.png
+    author:
+    notes:
+    tags:
+    sha1: ede0554e97a0ce17bbb9662fdbf36b26b4043d91
 - tees/tee.png
     author:
     notes:
     tags:
     sha1: 22c74dac4fa2aabddbc2a2d15136cea1b94b0ed6
-- tees/Tee.png
-    author:
-    notes:
-    tags:
-    sha1: ede0554e97a0ce17bbb9662fdbf36b26b4043d91
 - tees/teeskeleton.png
     author:
     notes:
@@ -12083,11 +12068,6 @@
     notes:
     tags:
     sha1: 76215331d2da54804216a9457ddf4118b5caac6b
-- white/tiles/P2Z_DDrace.png
-    author:
-    notes:
-    tags:
-    sha1: ba97af21b6a7d05d583e7d4fc914428fb3cb9df2
 - white/tiles/P2Z_Freez_full.png
     author:
     notes:
