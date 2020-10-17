@@ -10822,7 +10822,7 @@
     author: ChillerDragon
     notes: svg recreation of the original teeworlds grass_doodads
     tags: 0.7, grass, svg, teeish, nature
-    sha1: ef5d5743b58b03e5c6a3bf796880c67b06eb4343
+    sha1: e7812f2491617efaf28731c297ba282eae7daede
 - svg/panda_tileset_svg/panda_background.svg
     author:
     notes:
