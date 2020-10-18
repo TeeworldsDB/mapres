@@ -6,3 +6,5 @@ tags
 *.exe
 *.sh
 *.bat
+tmp/
+
