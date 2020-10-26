@@ -2152,7 +2152,7 @@
     author:
     notes: Used by BlmapChill (v0117+)
     tags: text, ChillerDragon
-    sha1: 6981a55609d61e52e25ceb60bbcf3c4cfcf5601d
+    sha1: f2d4277e5b1057f25f21c8a61a0f228bc6d50682
 - fonts/BlockTiles.png
     author:
     notes:
