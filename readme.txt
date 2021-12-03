@@ -2152,7 +2152,7 @@
     author:
     notes: Used by BlmapChill (v0117+)
     tags: text, ChillerDragon
-    sha1: f2d4277e5b1057f25f21c8a61a0f228bc6d50682
+    sha1: 6f3ab430889e54eb3cf1b1be9af013c0aa2e4ed1
 - fonts/BlockTiles.png
     author:
     notes:
@@ -10823,6 +10823,11 @@
     notes: svg recreation of the original teeworlds grass_doodads
     tags: 0.7, grass, svg, teeish, nature
     sha1: 3566e2a7d73cde647ad1994200e82543ac7d551f
+- svg/jungle_doodads_chiller.svg
+    author: ChillerDragon
+    notes: svg recreation of the original teeworlds jungle_doodads
+    tags: jungle, svg, teeish, nature
+    sha1: 06d4fc6e6eb84f722b24604f06c2a9c9cc75dfbd
 - svg/panda_tileset_svg/panda_background.svg
     author:
     notes:
@@ -12302,4 +12307,4 @@
     author:
     notes: Used by BlmapChill (v0117+)
     tags: text, ChillerDragon
-    sha1: cde36bce38c0b75079714b8a5a1bcb1b2012aec0
+    sha1: b8306d29edbf456e1d516a0e32316c025b2b51ab
