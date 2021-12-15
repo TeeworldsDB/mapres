@@ -10823,6 +10823,11 @@
     notes: svg recreation of the original teeworlds grass_doodads
     tags: 0.7, grass, svg, teeish, nature
     sha1: 3566e2a7d73cde647ad1994200e82543ac7d551f
+- svg/grass_main_chiller.svg
+    author:
+    notes:
+    tags:
+    sha1: dc6baad13b6dca07ec8eb6fdc9d0b300aa5e60d1
 - svg/jungle_doodads_chiller.svg
     author: ChillerDragon
     notes: svg recreation of the original teeworlds jungle_doodads
