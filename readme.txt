@@ -10827,7 +10827,7 @@
     author:
     notes:
     tags:
-    sha1: dc6baad13b6dca07ec8eb6fdc9d0b300aa5e60d1
+    sha1: 8b26897e439ed41fb5617dbc0b193ce85ae5ccfe
 - svg/jungle_doodads_chiller.svg
     author: ChillerDragon
     notes: svg recreation of the original teeworlds jungle_doodads
