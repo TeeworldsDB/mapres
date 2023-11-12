@@ -3463,6 +3463,11 @@
     notes:
     tags:
     sha1: 7f4bb298dd7dc2988a1ed2fb5e52b23bed3ee5ca
+- fonts/N RACE TÝLESET.png
+    author:
+    notes:
+    tags:
+    sha1: c58af5803448aa4ed64bcc517b58a8cd59e9eed2
 - fonts/[N]Race Uber2.png
     author:
     notes:
@@ -10148,6 +10153,11 @@
     notes:
     tags:
     sha1: d34f1d20bdc4065d1c9b769091af65f5af64813d
+- spikes/death_grün.png
+    author:
+    notes:
+    tags:
+    sha1: d0c37ec3bf6eca0534fb1caacf9ccffc52aaddc0
 - spikes/death_ice3.png
     author:
     notes:
