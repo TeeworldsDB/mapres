@@ -10818,6 +10818,11 @@
     notes:
     tags:
     sha1: 0f418232ebea694b9cadcdd2a6589a1e6aa95a5f
+- svg/generic_unhookable_chiller.svg
+    author: ChillerDragon
+    notes: svg recreation of the original teeworlds generic_unhookable
+    tags: 0.7, stone, svg, teeish, nature, unhook, iron, metal, copper, bronze, gold, silver
+    sha1: 455c2d927b58b65fd7dbdeaaf10b847c1e5876e4
 - svg/grass_doodads_chiller.svg
     author: ChillerDragon
     notes: svg recreation of the original teeworlds grass_doodads
