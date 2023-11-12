@@ -3463,11 +3463,6 @@
     notes:
     tags:
     sha1: 7f4bb298dd7dc2988a1ed2fb5e52b23bed3ee5ca
-- fonts/N RACE TÝLESET.png
-    author:
-    notes:
-    tags:
-    sha1: c58af5803448aa4ed64bcc517b58a8cd59e9eed2
 - fonts/[N]Race Uber2.png
     author:
     notes:
