@@ -9999,7 +9999,7 @@
     tags:
     sha1: 9c98e6afc1e8f9ce219b79c1f876ee70402c82b0
 - nature/TreesWithoutLeaves.png
-    author: ÑÏx - tux
+    author: тυx - tux
     notes: https://forum.ddnet.tw/viewtopic.php?f=42&t=6907
     tags: background, greyscale, white, trees, dead, apocalyptic
     sha1: 444742d3bd12f296d335f7737badc15bc4eb3c7e
@@ -10148,7 +10148,7 @@
     notes:
     tags:
     sha1: d34f1d20bdc4065d1c9b769091af65f5af64813d
-- spikes/death_grün.png
+- spikes/death_gr�n.png
     author:
     notes:
     tags:
