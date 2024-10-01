@@ -10148,7 +10148,7 @@
     notes:
     tags:
     sha1: d34f1d20bdc4065d1c9b769091af65f5af64813d
-- spikes/death_grün.png
+- spikes/death_grï¿½n.png
     author:
     notes:
     tags:
@@ -10828,11 +10828,21 @@
     notes: svg recreation of the original teeworlds generic_unhookable
     tags: 0.7, stone, svg, teeish, nature, unhook, iron, metal, copper, bronze, gold, silver
     sha1: 9cde522fc14dd5292852a7ed3086db07aa28c94a
+- svg/grass_doodads-0.6.svg
+    author: Zatline
+    notes: original teeworlds grass doodads svg
+    tags: 0.7, grass, svg, teeish, nature
+    sha1: bd9e4294128d991d61a90c8e40bd64e790659eba
 - svg/grass_doodads_chiller.svg
     author: ChillerDragon
     notes: svg recreation of the original teeworlds grass_doodads
     tags: 0.7, grass, svg, teeish, nature
     sha1: 3566e2a7d73cde647ad1994200e82543ac7d551f
+- svg/grass_main-0.6.svg
+    author: Zatline
+    notes: original teeworlds grass main svg
+    tags: 0.6, 0.7, grass, svg, teeish, nature
+    sha1: ec335bcbfbe9d038c90feb408787aa252e688656
 - svg/grass_main_chiller.svg
     author:
     notes:
