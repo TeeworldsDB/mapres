@@ -10148,7 +10148,7 @@
     notes:
     tags:
     sha1: d34f1d20bdc4065d1c9b769091af65f5af64813d
-- spikes/death_gr�n.png
+- spikes/death_grün.png
     author:
     notes:
     tags:
