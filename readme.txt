@@ -10830,7 +10830,7 @@
     sha1: 9cde522fc14dd5292852a7ed3086db07aa28c94a
 - svg/grass_doodads-0.6.svg
     author: Zatline
-    notes: original teeworlds grass doodads svg
+    notes: custom work in progress based on original teeworlds grass doodads svg
     tags: 0.7, grass, svg, teeish, nature
     sha1: bd9e4294128d991d61a90c8e40bd64e790659eba
 - svg/grass_doodads_chiller.svg
@@ -10840,7 +10840,7 @@
     sha1: 3566e2a7d73cde647ad1994200e82543ac7d551f
 - svg/grass_main-0.6.svg
     author: Zatline
-    notes: original teeworlds grass main svg
+    notes: custom work in progress based on original teeworlds grass main svg
     tags: 0.6, 0.7, grass, svg, teeish, nature
     sha1: ec335bcbfbe9d038c90feb408787aa252e688656
 - svg/grass_main_chiller.svg
